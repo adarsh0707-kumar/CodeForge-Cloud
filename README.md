@@ -8,6 +8,7 @@
 [![Testing](https://img.shields.io/badge/testing-comprehensive-purple.svg)](./docs/09-testing-strategy.md)
 [![Documentation](https://img.shields.io/badge/docs-complete-blue.svg)](./docs/README.md)
 [![License](https://img.shields.io/badge/license-MIT-black.svg)](./LICENSE)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee\&logoColor=white)](https://buymeacoffee.com/adarsh12kumar)
 
 **CodeForge Cloud** is a cloud-native collaborative online development platform that combines a browser-based IDE with a distributed, secure code execution infrastructure.
 
@@ -1617,3 +1618,6 @@ The central engineering principle is:
 And the broader project principle is:
 
 > **Build it. Secure it. Test it. Observe it. Scale it.**
+
+---
+If this project was useful to you, consider [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee\&logoColor=white)](https://buymeacoffee.com/adarsh12kumar)
